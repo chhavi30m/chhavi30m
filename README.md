@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chhavi30m
-- 👀 I’m keen to learn more about the extensive applications of ML and AI. I also am eager to learn all of Python.
-- 🌱 I’m currently learning training models, GUI in Python and Deep Learning.
-- 💞️ I’m looking to collaborate on prediction models, deep learning applications and GUI.
+- 👀 I’m keen on expanding skills in deep learning and machine learning.
+- 🌱 I’m currently learning tensorflow, data visualization and computer vision.
+- 💞️ I’m looking to collaborate on deep learning.
 - 📫 You can reach out to me at chhavi30m@gmail.com
 
 <!---
