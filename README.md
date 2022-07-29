@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chhavi30m
 - 👀 I’m keen on expanding skills in deep learning and machine learning.
-- 🌱 I’m currently learning tensorflow, data visualization and computer vision.
+- 🌱 I’m currently working on applications of tensorflow and computer vision.
 - 💞️ I’m looking to collaborate on deep learning.
 - 📫 You can reach out to me at chhavi30m@gmail.com
 
